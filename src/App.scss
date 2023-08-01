@@ -1,5 +1,9 @@
-active {
-    color: #0b5ed7 !important;
-    font-weight: bold;
-    border-bottom: 3px solid #0b5ed7;
-  }
+.App {
+  background-color: #F9ED69;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  color: whitesmoke;
+}
